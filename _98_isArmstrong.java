@@ -16,7 +16,7 @@
 
 import java.util.Scanner; // Scanner class import ki, taaki user se keyboard input le sakein
 
-class isArmstrong {
+class _98_isArmstrong {
     public static void main(String[] args){
 
         // Variables declare kiye:

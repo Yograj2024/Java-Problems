@@ -1,6 +1,6 @@
 import java.util.Scanner; // Scanner class import kiya user input lene ke liye
 
-public class 99_addTwoMatrices {
+public class _99_addTwoMatrices {
     public static void main(String[] args) {
 
         // Scanner object create kiya jo keyboard se input padhega
